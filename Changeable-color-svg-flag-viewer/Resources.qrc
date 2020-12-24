@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/flagA.svg</file>
+        <file>images/flagB.svg</file>
+    </qresource>
+</RCC>
